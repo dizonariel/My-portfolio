@@ -21,7 +21,7 @@ document.querySelectorAll('.mobile-menu a').forEach(a => {
 // Typed.js
 if (window.Typed) {
   new Typed('#typed', {
-    strings: ['Social Media Manager', 'Graphic Designer', 'Video Editor', 'Virtual Assistant'],
+    strings: ['Social Media Manager', 'Graphic Designer', 'Video Editor', 'Virtual Assistant', 'AI Static & Video Creator'],
     typeSpeed: 55,
     backSpeed: 30,
     backDelay: 1500,
